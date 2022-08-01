@@ -1,5 +1,5 @@
 {
-  "name":"ESPAsyncTCP-esphome",
+  "name":"ESPAsyncTCP-jeot",
   "description":"Asynchronous TCP Library for ESP8266",
   "keywords":"async,tcp",
   "authors":
@@ -10,7 +10,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/OttoWinter/ESPAsyncTCP.git"
+    "url": "https://github.com/jeot/ESPAsyncTCP.git"
   },
   "version": "1.2.3",
   "license": "LGPL-3.0",
